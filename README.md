@@ -18,3 +18,8 @@ A simple token smart contract written in Solidity.
 
 ## Why I built this
 To learn how smart contracts work by building a real project.
+
+## Deployment
+- Remix IDE: https://remix.ethereum.org
+- Testnet: Sepolia
+- Deployed Contract Address: 0x224c19e181Af0BAc6B4a88004487A64756065ea9
