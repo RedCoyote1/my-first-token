@@ -29,7 +29,7 @@ To learn how smart contracts work by building a real project.
 Screenshots in the `/screenshots` folder show the MFT token
 successfully deployed and visible in MetaMask.
 
-## Demo Tokena
+## Demo Token
 
 ### Token im MetaMask
 ![MFT 1](screenshots/MFT%201.png)
