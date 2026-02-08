@@ -1,39 +1,79 @@
-# my-first-token
-My first blockchain project – a simple token written in Solidity
+
+
 # My First Token (MFT)
 
-This is my first blockchain project.
-A simple token smart contract written in Solidity.
+My first blockchain project – a simple token written in Solidity.
+
+This repository documents my learning journey into smart contracts
+by building and improving a basic ERC-20–like token.
+
+## Version 1 (V1)
+
+The initial version of the token focuses on the fundamentals:
+
+- Fixed total supply created in the constructor
+- Token transfers between addresses
+- Balance tracking using mappings
+- Basic smart contract structure
+
+This version was created to understand how tokens work at a low level.
+
+## Version 2 (V2)
+
+The second version extends the original token with additional features:
+
+- Ownership (`owner`) and access control
+- Owner-only minting of new tokens
+- Token burning functionality for holders
+- Better control over total supply
+
+V2 represents the next step in learning Solidity
+and smart contract design.
+
+> Screenshots for V2 deployment will be added soon.
 
 ## What this project does
-- Creates a fixed supply token
-- Allows transfers between addresses
-- Demonstrates basic smart contract logic
 
-## Tech stack
+- Creates and manages a custom token
+- Allows transfers between Ethereum addresses
+- Demonstrates minting and burning logic
+- Shows how access control works in smart contracts
+
+## Tech Stack
+
 - Solidity
-- Ethereum (testnet)
+- Ethereum (Sepolia testnet)
 - Remix IDE
 - MetaMask
 
-## Why I built this
-To learn how smart contracts work by building a real project.
+## Why I Built This
 
-## Deployment
+To learn how smart contracts work by building real projects
+instead of only following tutorials.
+
+## Deployment (V1)
+
 - Remix IDE: https://remix.ethereum.org
-- Testnet: Sepolia
-- Deployed Contract Address: 0x224c19e181Af0BAc6B4a88004487A64756065ea9
+- Network: Sepolia testnet
+- Deployed Contract Address:  
+  `0x224c19e181Af0BAc6B4a88004487A64756065ea9`
 
 ## Proof of Deployment
 
 Screenshots in the `/screenshots` folder show the MFT token
 successfully deployed and visible in MetaMask.
 
-## Demo Token
+### Token in MetaMask (V1)
 
-### Token im MetaMask
 ![MFT 1](screenshots/MFT%201.png)
 
 ![MFT 2](screenshots/MFT%202.png)
 
+## Disclaimer
 
+This project is for educational purposes only  
+and is not intended for production use.
+
+## License
+
+MIT
