@@ -23,3 +23,12 @@ To learn how smart contracts work by building a real project.
 - Remix IDE: https://remix.ethereum.org
 - Testnet: Sepolia
 - Deployed Contract Address: 0x224c19e181Af0BAc6B4a88004487A64756065ea9
+
+  ## Demo Tokena
+
+### Token w MetaMask
+![MFT1](screenshots/MFT1.png)
+
+### Transfer tokenów w Remix
+![MFT2](screenshots/MFT2.png)
+
