@@ -24,6 +24,11 @@ To learn how smart contracts work by building a real project.
 - Testnet: Sepolia
 - Deployed Contract Address: 0x224c19e181Af0BAc6B4a88004487A64756065ea9
 
+## Proof of Deployment
+
+Screenshots in the `/screenshots` folder show the MFT token
+successfully deployed and visible in MetaMask.
+
 ## Demo Tokena
 
 ### Token w MetaMask
