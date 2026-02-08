@@ -31,10 +31,9 @@ successfully deployed and visible in MetaMask.
 
 ## Demo Tokena
 
-### Token w MetaMask
+### Token im MetaMask
 ![MFT 1](screenshots/MFT%201.png)
 
-### Transfer tokenów w Remix
 ![MFT 2](screenshots/MFT%202.png)
 
 
