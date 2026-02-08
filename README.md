@@ -24,11 +24,12 @@ To learn how smart contracts work by building a real project.
 - Testnet: Sepolia
 - Deployed Contract Address: 0x224c19e181Af0BAc6B4a88004487A64756065ea9
 
-  ## Demo Tokena
+## Demo Tokena
 
 ### Token w MetaMask
-![MFT 1](screenshots/MFT1.png)
+![MFT 1](screenshots/MFT%201.png)
 
 ### Transfer tokenów w Remix
-![MFT 2](screenshots/MFT2.png)
+![MFT 2](screenshots/MFT%202.png)
+
 
