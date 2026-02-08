@@ -27,8 +27,8 @@ To learn how smart contracts work by building a real project.
   ## Demo Tokena
 
 ### Token w MetaMask
-![MFT1](screenshots/MFT1.png)
+![MFT 1](screenshots/MFT1.png)
 
 ### Transfer tokenów w Remix
-![MFT2](screenshots/MFT2.png)
+![MFT 2](screenshots/MFT2.png)
 
