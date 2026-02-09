@@ -30,8 +30,6 @@ The second version extends the original token with additional features:
 V2 represents the next step in learning Solidity
 and smart contract design.
 
-> Screenshots for V2 deployment will be added soon.
-
 ## What this project does
 
 - Creates and manages a custom token
@@ -81,6 +79,15 @@ successfully deployed and visible in MetaMask.
 ![MFT 1](screenshots/MFT%201.png)
 
 ![MFT 2](screenshots/MFT%202.png)
+
+## Proof of Deployment (V2)
+
+### Token in MetaMask (V2)
+
+### Contract Interaction in Remix (V2)
+
+
+### Transactions Activity (V2)
 
 ## Disclaimer
 
