@@ -55,8 +55,21 @@ instead of only following tutorials.
 
 - Remix IDE: https://remix.ethereum.org
 - Network: Sepolia testnet
-- Deployed Contract Address:  
+- Deployed Contract Address (18 decimals ):  
   `0x224c19e181Af0BAc6B4a88004487A64756065ea9`
+
+  Sepolia Etherscan:
+  https://sepolia.etherscan.io/token/0x224c19e181Af0BAc6B4a88004487A64756065ea9
+
+  ## Deployment (V2)
+
+- Network: Sepolia testnet
+- Token: My First Token (MFT)
+- Token Contract Address (18 decimals):  
+  `0xf59DC9a20Be6f9a3e82393AF27b1E75d56689BeB`
+
+Sepolia Etherscan:
+https://sepolia.etherscan.io/token/0xf59DC9a20Be6f9a3e82393AF27b1E75d56689BeB
 
 ## Proof of Deployment
 
