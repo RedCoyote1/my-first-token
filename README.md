@@ -83,11 +83,13 @@ successfully deployed and visible in MetaMask.
 ## Proof of Deployment (V2)
 
 ### Token in MetaMask (V2)
+![MFTV2 3](screenshots/MFTV2-3.png)
 
 ### Contract Interaction in Remix (V2)
-
+![MFTV2 1](screenshots/MFTV2.png)
 
 ### Transactions Activity (V2)
+![MFTV2 2](screenshots/MFTV2-2.png)
 
 ## Disclaimer
 
