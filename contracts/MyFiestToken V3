@@ -77,3 +77,4 @@ contract MyFirstTokenV3 {
         emit Transfer(msg.sender, address(0), _value);
     }
 }
+
