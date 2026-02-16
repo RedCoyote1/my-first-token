@@ -30,7 +30,7 @@ The second version extends the original token with additional features:
 V2 represents the next step in learning Solidity
 and smart contract design.
 
-Version 3 (V3)
+## Version 3 (V3)
 
 The third version upgrades the token to be fully compliant with the ERC-20.
 
