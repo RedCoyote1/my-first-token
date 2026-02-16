@@ -30,6 +30,26 @@ The second version extends the original token with additional features:
 V2 represents the next step in learning Solidity
 and smart contract design.
 
+Version 3 (V3)
+
+The third version upgrades the token to be fully compliant with the ERC-20.
+
+New features added:
+
+approve() function
+
+allowance mapping
+
+transferFrom() function
+
+Approval event
+
+Full ERC-20 compatibility
+
+Additional edge case testing
+
+This version allowed me to understand how delegated token transfers work and how DeFi protocols interact with tokens.
+
 ## What this project does
 
 - Creates and manages a custom token
